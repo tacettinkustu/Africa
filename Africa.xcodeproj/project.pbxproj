@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C12D4B62A43843900EB16C3 /* ColorImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C12D4B52A43843900EB16C3 /* ColorImageView.swift */; };
 		6C5BE3712A3F06540091C165 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5BE3702A3F06540091C165 /* AfricaApp.swift */; };
 		6C5BE3732A3F06540091C165 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5BE3722A3F06540091C165 /* ContentView.swift */; };
 		6C5BE3752A3F06550091C165 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C5BE3742A3F06550091C165 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C12D4B52A43843900EB16C3 /* ColorImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorImageView.swift; sourceTree = "<group>"; };
 		6C5BE36D2A3F06540091C165 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C5BE3702A3F06540091C165 /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		6C5BE3722A3F06540091C165 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +47,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6C12D4B42A43842900EB16C3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6C12D4B52A43843900EB16C3 /* ColorImageView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		6C5BE3642A3F06540091C165 = {
 			isa = PBXGroup;
 			children = (
@@ -64,6 +74,7 @@
 		6C5BE36F2A3F06540091C165 /* Africa */ = {
 			isa = PBXGroup;
 			children = (
+				6C12D4B42A43842900EB16C3 /* View */,
 				6C5BE3862A421C000091C165 /* Info.plist */,
 				6C5BE3842A421B350091C165 /* Data */,
 				6C5BE3802A3F0C7D0091C165 /* Video */,
@@ -170,6 +181,7 @@
 				6C5BE3732A3F06540091C165 /* ContentView.swift in Sources */,
 				6C5BE3912A421E000091C165 /* MainView.swift in Sources */,
 				6C5BE38D2A421DC50091C165 /* MapView.swift in Sources */,
+				6C12D4B62A43843900EB16C3 /* ColorImageView.swift in Sources */,
 				6C5BE3712A3F06540091C165 /* AfricaApp.swift in Sources */,
 				6C5BE3892A421CFF0091C165 /* VideoListView.swift in Sources */,
 				6C5BE38F2A421DE50091C165 /* GalleryView.swift in Sources */,
