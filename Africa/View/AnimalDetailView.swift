@@ -40,6 +40,10 @@ struct AnimalDetailView: View {
           .padding(.horizontal)
         
         // GALLERY
+          Group {
+            HeadingView(headingImage: "photo.on.rectangle.angled", headingText: "Wilderness in Pictures")
+          }
+          .padding(.horizontal)
         // FACTS
         //
         
