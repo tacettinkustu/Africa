@@ -15,11 +15,11 @@
 		6C5BE3752A3F06550091C165 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C5BE3742A3F06550091C165 /* Assets.xcassets */; };
 		6C5BE3782A3F06550091C165 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C5BE3772A3F06550091C165 /* Preview Assets.xcassets */; };
 		6C5BE3812A3F0C7D0091C165 /* Video in Resources */ = {isa = PBXBuildFile; fileRef = 6C5BE3802A3F0C7D0091C165 /* Video */; };
-		6C5BE3852A421B350091C165 /* Data in Resources */ = {isa = PBXBuildFile; fileRef = 6C5BE3842A421B350091C165 /* Data */; };
 		6C5BE3892A421CFF0091C165 /* VideoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5BE3882A421CFF0091C165 /* VideoListView.swift */; };
 		6C5BE38D2A421DC50091C165 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5BE38C2A421DC50091C165 /* MapView.swift */; };
 		6C5BE38F2A421DE50091C165 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5BE38E2A421DE50091C165 /* GalleryView.swift */; };
 		6C5BE3912A421E000091C165 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5BE3902A421E000091C165 /* MainView.swift */; };
+		6CDAA0832A4604E400843465 /* Data in Resources */ = {isa = PBXBuildFile; fileRef = 6C5BE3842A421B350091C165 /* Data */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -186,9 +186,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CDAA0832A4604E400843465 /* Data in Resources */,
 				6C5BE3812A3F0C7D0091C165 /* Video in Resources */,
 				6C5BE3782A3F06550091C165 /* Preview Assets.xcassets in Resources */,
-				6C5BE3852A421B350091C165 /* Data in Resources */,
 				6C5BE3752A3F06550091C165 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
