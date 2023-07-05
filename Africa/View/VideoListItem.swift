@@ -10,7 +10,7 @@ import SwiftUI
 struct VideoListItemView: View {
     
     let video: Video
-        
+    
     var body: some View {
         HStack(spacing: 10) {
             ZStack {
