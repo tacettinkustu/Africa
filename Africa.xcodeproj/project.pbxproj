@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		6C08A2942A55EE0400BB369C /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C08A2932A55EE0400BB369C /* VideoPlayerView.swift */; };
 		6C08A2972A55EF0B00BB369C /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C08A2962A55EF0B00BB369C /* VideoPlayerHelper.swift */; };
+		6C08A2992A55F09300BB369C /* Video in Resources */ = {isa = PBXBuildFile; fileRef = 6C5BE3802A3F0C7D0091C165 /* Video */; };
 		6C12D4B62A43843900EB16C3 /* CoverImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C12D4B52A43843900EB16C3 /* CoverImageView.swift */; };
 		6C12D4B92A4388E200EB16C3 /* CoverImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C12D4B82A4388E200EB16C3 /* CoverImageModel.swift */; };
 		6C12D4BC2A438A8100EB16C3 /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C12D4BB2A438A8100EB16C3 /* CodableBundleExtension.swift */; };
@@ -16,7 +17,6 @@
 		6C5BE3732A3F06540091C165 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5BE3722A3F06540091C165 /* ContentView.swift */; };
 		6C5BE3752A3F06550091C165 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C5BE3742A3F06550091C165 /* Assets.xcassets */; };
 		6C5BE3782A3F06550091C165 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C5BE3772A3F06550091C165 /* Preview Assets.xcassets */; };
-		6C5BE3812A3F0C7D0091C165 /* Video in Resources */ = {isa = PBXBuildFile; fileRef = 6C5BE3802A3F0C7D0091C165 /* Video */; };
 		6C5BE3892A421CFF0091C165 /* VideoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5BE3882A421CFF0091C165 /* VideoListView.swift */; };
 		6C5BE38D2A421DC50091C165 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5BE38C2A421DC50091C165 /* MapView.swift */; };
 		6C5BE38F2A421DE50091C165 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5BE38E2A421DE50091C165 /* GalleryView.swift */; };
@@ -230,8 +230,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C08A2992A55F09300BB369C /* Video in Resources */,
 				6C7647282A48DD2F00B2601C /* Data in Resources */,
-				6C5BE3812A3F0C7D0091C165 /* Video in Resources */,
 				6C5BE3782A3F06550091C165 /* Preview Assets.xcassets in Resources */,
 				6C5BE3752A3F06550091C165 /* Assets.xcassets in Resources */,
 			);
