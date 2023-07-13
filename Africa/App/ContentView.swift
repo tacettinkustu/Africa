@@ -14,7 +14,7 @@ struct ContentView: View {
     
     @State private var isGridViewActive: Bool = false
     
-    @State private var gridLayout: [GridItem] = [ GridItem(.flexible()) ]
+    @State private var gridLayout: [GridItem] = [ GridItem(.flexible()), GridItem(.flexible()) ]
     @State private var gridColumn: Int = 1
     @State private var toolbarIcon: String = "square.grid.2x2"
     
@@ -55,14 +55,14 @@ struct ContentView: View {
                     .listStyle(.plain)
                 } else {
                     ScrollView(.vertical, showsIndicators: false) {
-                      LazyVGrid(columns: gridLayout, alignment: .center, spacing: 10) {
-                        ForEach(animals) { animal in
-                          NavigationLink(destination: AnimalDetailView(animal: animal)) {
-                            AnimalGridItemView(animal: animal)
-                          } //: LINK
-                        } //: LOOP
-                      } //: GRID
-                      .padding(10)
+                        LazyVGrid(columns: gridLayout, alignment: .center, spacing: 10) {
+                            ForEach(animals) { animal in
+                                NavigationLink(destination: AnimalDetailView(animal: animal)) {
+                                    AnimalGridItemView(animal: animal)
+                                } //: LINK
+                            } //: LOOP
+                        } //: GRID
+                        .padding(10)
                     } //: SCROLL
                 } //: CONDITION
             } //: GROUP
