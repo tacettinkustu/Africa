@@ -36,6 +36,7 @@
 		6CDAA0932A4708A100843465 /* InsetFactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDAA0922A4708A100843465 /* InsetFactView.swift */; };
 		6CDAA0952A470B5400843465 /* InsetMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDAA0942A470B5400843465 /* InsetMapView.swift */; };
 		6CDAA0972A477CEE00843465 /* ExternalWeblinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDAA0962A477CEE00843465 /* ExternalWeblinkView.swift */; };
+		6CF712802A62856A002487C1 /* CreditsVew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF7127F2A62856A002487C1 /* CreditsVew.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -70,6 +71,7 @@
 		6CDAA0922A4708A100843465 /* InsetFactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetFactView.swift; sourceTree = "<group>"; };
 		6CDAA0942A470B5400843465 /* InsetMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetMapView.swift; sourceTree = "<group>"; };
 		6CDAA0962A477CEE00843465 /* ExternalWeblinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExternalWeblinkView.swift; sourceTree = "<group>"; };
+		6CF7127F2A62856A002487C1 /* CreditsVew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsVew.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				6C94B92A2A5DC4E000FDD21E /* MapAnnotationView.swift */,
 				6C94B92C2A606EF600FDD21E /* MotionAnimationView.swift */,
 				6C94B92E2A608BEC00FDD21E /* AnimalGridItemView.swift */,
+				6CF7127F2A62856A002487C1 /* CreditsVew.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				6C7647252A48DCE000B2601C /* VideoListItem.swift in Sources */,
 				6C12D4BC2A438A8100EB16C3 /* CodableBundleExtension.swift in Sources */,
 				6C94B92D2A606EF600FDD21E /* MotionAnimationView.swift in Sources */,
+				6CF712802A62856A002487C1 /* CreditsVew.swift in Sources */,
 				6CDAA08F2A4703E400843465 /* HeadingView.swift in Sources */,
 				6C08A2942A55EE0400BB369C /* VideoPlayerView.swift in Sources */,
 			);

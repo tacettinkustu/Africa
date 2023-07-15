@@ -51,6 +51,7 @@ struct ContentView: View {
                                 AnimalListItemView(animal: animal)
                             } //: LINK
                         } //: LOOP
+                        CreditsView()
                     } //: LIST
                     .listStyle(.plain)
                 } else {
@@ -96,8 +97,6 @@ struct ContentView: View {
         } //: NAVIGATION
     }
 }
-
-// MARK: - PREVIEW
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
