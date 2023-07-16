@@ -9,7 +9,7 @@ A SwiftUI iOS app that showcases information about African wildlife, covering va
 
 ### On iPads:
 <p align="center">
-  <img src="https://github.com/tacettinkustu/Africa/assets/51737508/283ec11f-2b7c-419e-aba7-acc6ef0249f2" alt="Description of the image" width="300">
+  <img src="https://github.com/tacettinkustu/Africa/assets/51737508/d3fa17ac-5b8d-4c2e-b026-18538d91c20b" alt="Description of the image" width="300">
 </p>
 
 ## Description
