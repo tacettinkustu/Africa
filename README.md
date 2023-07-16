@@ -1,11 +1,16 @@
 # Africa
 
+A SwiftUI iOS app that showcases information about African wildlife, covering various topics such as JSON parsing, grid layouts, MapKit integration, video player, launch screen customization, Swift extensions, generics, prototyping, user experience design, iMessage sticker pack, Mac Catalyst, pseudocode, bundles, and extensions.
+
 ### On mobile:
 <p align="center">
   <img src="https://github.com/tacettinkustu/Africa/assets/51737508/9e1ad644-3138-4239-ba9f-41eb45fc39aa" alt="Description of the image" width="300">
 </p>
 
-A SwiftUI iOS app that showcases information about African wildlife, covering various topics such as JSON parsing, grid layouts, MapKit integration, video player, launch screen customization, Swift extensions, generics, prototyping, user experience design, iMessage sticker pack, Mac Catalyst, pseudocode, bundles, and extensions.
+### On iPads:
+<p align="center">
+  <img src="https://github.com/tacettinkustu/Africa/assets/51737508/283ec11f-2b7c-419e-aba7-acc6ef0249f2" alt="Description of the image" width="300">
+</p>
 
 ## Description
 
