@@ -1,6 +1,9 @@
 # Africa
 
-![Logo](app_logo.png)
+### On mobile:
+<p align="center">
+  <img src="https://github.com/tacettinkustu/Africa/assets/51737508/9e1ad644-3138-4239-ba9f-41eb45fc39aa" alt="Description of the image" width="300">
+</p>
 
 A SwiftUI iOS app that showcases information about African wildlife, covering various topics such as JSON parsing, grid layouts, MapKit integration, video player, launch screen customization, Swift extensions, generics, prototyping, user experience design, iMessage sticker pack, Mac Catalyst, pseudocode, bundles, and extensions.
 
@@ -23,12 +26,6 @@ This project aims to provide an immersive experience to users by presenting them
 - Bringing the full iPadOS app to macOS using Mac Catalyst technology
 - Introduction to pseudocode and its importance
 - Understanding bundles and extensions in app development and how to use them effectively
-
-## Screenshots
-
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
 
 ## Requirements
 
